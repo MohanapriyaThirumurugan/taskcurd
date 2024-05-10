@@ -4,7 +4,7 @@ import Dashboard from './assets/components/Dashboard'
 import Add from './assets/components/Add'
 import Edit from './assets/components/Edit';
 import { useState } from 'react';
-import Topbar from './assets/components/topbar';
+import Topbar from './assets/components/Topbar';
 import 'bootstrap/dist/css/bootstrap.min.css';
 
 function App() {
